@@ -2,6 +2,7 @@
 // Users table query
 $usersTable = "CREATE TABLE IF NOT EXISTS users (
 id INT(6) AUTO_INCREMENT PRIMARY KEY,
+name VARCHAR(50),
 email VARCHAR(50),
 password VARCHAR(50)
 )";
