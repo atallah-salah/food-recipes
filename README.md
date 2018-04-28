@@ -4,7 +4,7 @@ to run project should have :
 
 1-apache server with mysql DB 
 
-when you run the project it will autmatucliy
+when you run the project it will automatically
 
 create database "foodRecipes" and insert some data
 
